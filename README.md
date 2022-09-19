@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Gaeph/InstaGpdef/blob/master/973zNFo%20-%20Imgur.gif' />
+<img src='https://github.com/Gaeph/Gaeph1/blob/master/r9TL3q6%20-%20Imgur.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
