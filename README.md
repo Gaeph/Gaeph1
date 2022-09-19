@@ -37,8 +37,8 @@ Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
 
-- [Android Async HTTP](https://github.com/Gaeph/InstaGpdef/blob/master/973zNFo%20-%20Imgur.gif) - Simple asynchronous HTTP requests with JSON parsing
-- [https://github.com/Gaeph/InstaGpdef/blob/master/973zNFo%20-%20Imgur.gif - Image loading and caching library for Android
+- [Android Async HTTP](https://github.com/Gaeph/Gaeph1/blob/master/r9TL3q6%20-%20Imgur.gif) - Simple asynchronous HTTP requests with JSON parsing
+- [https://github.com/Gaeph/Gaeph1/blob/master/r9TL3q6%20-%20Imgur.gif] - Image loading and caching library for Android
 
 ## License
 
